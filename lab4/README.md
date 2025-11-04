@@ -113,4 +113,4 @@ The median filter significantly reduces MSE for salt-and-pepper noise, showing i
   → Averaging mixes values across boundaries, reducing contrast at edges.
 * **How could we design adaptive filters to preserve detail?**
 
-  → Use  **adaptive median filters** ,  **bilateral filters** , or **edge-aware smoothing** that vary their kernel size or weight based on local variance.
+  → Use  **adaptive median filters** ,  **bilateral filters** , or **edge-aware smoothing** that vary their kernel size or weight based on local variance.5
